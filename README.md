@@ -1,7 +1,7 @@
-### Hi there! I'm Katya
+<h1 align="center">Hi there! I'm Katya</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="350"/>
 </div>
 <!--
 **kaatyassss/kaatyassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
