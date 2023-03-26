@@ -1,7 +1,7 @@
 ### Hi there! I'm Katya
 
 <div id="header" align="center">
-  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=pinterest&utm_campaign=pinterest_shot&utm_content=Hello+Dribbble%21&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=CChassany&utm_content=Hello%20Dribbble!&utm_medium=Social_Share)](https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966)" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 <!--
 **kaatyassss/kaatyassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
